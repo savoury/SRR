@@ -1,0 +1,13 @@
+/Users/rvacquerie/Documents/SRR/Console/bin/Debug/netcoreapp3.1/Console
+/Users/rvacquerie/Documents/SRR/Console/bin/Debug/netcoreapp3.1/Console.deps.json
+/Users/rvacquerie/Documents/SRR/Console/bin/Debug/netcoreapp3.1/Console.runtimeconfig.json
+/Users/rvacquerie/Documents/SRR/Console/bin/Debug/netcoreapp3.1/Console.runtimeconfig.dev.json
+/Users/rvacquerie/Documents/SRR/Console/bin/Debug/netcoreapp3.1/Console.dll
+/Users/rvacquerie/Documents/SRR/Console/bin/Debug/netcoreapp3.1/Console.pdb
+/Users/rvacquerie/Documents/SRR/Console/obj/Debug/netcoreapp3.1/Console.csprojAssemblyReference.cache
+/Users/rvacquerie/Documents/SRR/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfoInputs.cache
+/Users/rvacquerie/Documents/SRR/Console/obj/Debug/netcoreapp3.1/Console.AssemblyInfo.cs
+/Users/rvacquerie/Documents/SRR/Console/obj/Debug/netcoreapp3.1/Console.dll
+/Users/rvacquerie/Documents/SRR/Console/obj/Debug/netcoreapp3.1/Console.pdb
+/Users/rvacquerie/Documents/SRR/Console/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/rvacquerie/Documents/SRR/Console/obj/Debug/netcoreapp3.1/Console.csproj.CopyComplete
